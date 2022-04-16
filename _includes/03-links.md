@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Connect on LinkedIn](https://linkedin.com/in/mattpaddock)
+[Follow on Twitter](https://twitter.com/mapdock)  
