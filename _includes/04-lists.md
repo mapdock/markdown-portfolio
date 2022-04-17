@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+Top 10 jazz saxophone 🎷 albums you need to hear:  
+- [ ] [Coleman Hawkins Encounters Ben Webster](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ?si=FL2Ca_YBRoqcXE66flnkCA)
+- [ ] [The Griffith Park Collection](https://open.spotify.com/album/2nf1mt3aGhJOcsLzH8aPL1?si=6Wc3_FG3Rl6qB144uNVnVQ)
+- [ ] [Homecoming: Live at the Village Vanguard](https://open.spotify.com/album/5PRo0pvRdcrJzoMleTTflV?si=8d45d23e09bb4ca5)  
+- [ ] [Introducing Johnny Griffin](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd?si=27741314056a4224)  
+- [ ] [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7?si=ce9e6c8e6bbe4d6f)  
+- [ ] [Live! In Chicago](https://open.spotify.com/album/78yb7DfRDLjNq2jU1WXYIT?si=6b1b2ed658e84cbd)  
+- [ ] [Michael Brecker](https://open.spotify.com/album/1pup2rw6rpOQ4qUVL0h1To?si=fc70ffa9974d446b)  
+- [ ] [Plays Duke Ellington](https://open.spotify.com/album/7etwFbUYwlkGwUplCp1PRu?si=9fa2ae5a815d409c)  
+- [ ] [Pure Getz](https://open.spotify.com/album/27x8m3MgfBnjTR4bUp6SEE?si=c0b6c8593e63411d)  
+- [ ] [The State of the Tenor: Live at the Village Vanguard](https://open.spotify.com/album/7INlctDonyMxjSHSSFCf3S?si=dbce75d3aecc4af6)  
